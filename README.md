@@ -1,2 +1,15 @@
-# python-web-scraper-automation
-A custom Python automation tool for parsing HTML and extracting structured CSV reports
+# 🐍 Python Data Scraping & CSV Export Tool
+
+A lightweight Python automation tool built using `BeautifulSoup` and `requests`. 
+It extracts targeted web elements from HTML pages and structures them into clean CSV data sheets.
+
+## 🚀 Key Features
+- **HTTP Handling:** Custom request fetching with status code checking.
+- **DOM Parsing:** Automated HTML data extraction using CSS selectors.
+- **Data Export:** Direct conversion from unstructured text to structured CSV.
+
+## 🛠️ Tech Stack
+- Python 3
+- BeautifulSoup4
+- Requests
+- CSV Module
